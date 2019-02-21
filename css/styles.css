@@ -1,3 +1,11 @@
-h1 {
-    color: red;
+body {
+    /* color 指定方法
+        1) 有名色の直接指定: red, black, mazenta, etc...
+        2) rgb()による3値の指定: rgb(255, 0, 0)
+        3) 16進数による指定:
+            i) 6桁(6byte)表現: #ff0000, #333333
+            ii) 3桁(3byte)表現 */
+    color: #333333;
+    
 }
+
