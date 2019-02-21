@@ -6,6 +6,8 @@ body {
             i) 6桁(6byte)表現: #ff0000, #333333
             ii) 3桁(3byte)表現 */
     color: #333333;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
     
 }
 
