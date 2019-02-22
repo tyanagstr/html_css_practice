@@ -11,9 +11,13 @@ body {
 }
 
 header {
-    background-color: #ffcccc;
     text-align: right;
     padding: 8px;
+    background-image: url(../images/header.jpg);
+    height: 250px;
+    background-size: cover;
+    background-position: 50%, 50%;
+    margin-bottom: 50px;
 }
 
 header ul {
