@@ -40,3 +40,17 @@ header li > a {
 header li > a:hover {
     color: #3333ff;
 }
+
+section {
+    text-align: center;
+}
+
+section h1 {
+    font-weight: normal;
+    margin-bottom: 8px;
+}
+
+section p {
+    margin-top: 0;
+    font-size: 14px;
+}
