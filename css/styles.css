@@ -60,3 +60,20 @@ section p {
     border: 5px solid #008B4A;
     box-shadow: 0 0 5px gray;
 }
+
+.works {
+    width: 400px;
+    /* margin-left: auto; auto -> 余った余白を自動的に割り当てる
+    margin-right: auto; */
+    margin: 60px auto;
+    border-bottom: 1px solid gray;
+}
+
+.works > section {
+    margin-bottom: 35px;
+}
+
+.works h1,
+.works p {
+    text-align: left;
+}
