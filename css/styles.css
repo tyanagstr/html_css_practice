@@ -55,8 +55,8 @@ section p {
     font-size: 14px;
 }
 
-img.icon{
+.icon{
     border-radius: 50%;    
-    border-style: solid;
-    border-color: #008B4A;
+    border: 5px solid #008B4A;
+    box-shadow: 0 0 5px gray;
 }
