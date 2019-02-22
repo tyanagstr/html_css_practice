@@ -37,6 +37,10 @@ header li > a {
     color: inherit;
 }
 
+.current {
+    border-bottom: 4px solid royalblue;
+}
+
 header li > a:hover {
     color: #3333ff;
 }
@@ -87,6 +91,7 @@ footer ul {
     margin: 0;
     list-style-type: none;
     padding-left: 0;
+    float: left;
 }
 
 footer li {
@@ -95,4 +100,10 @@ footer li {
 
 footer li > a:hover {
     opacity: .5;
+}
+
+footer p {
+    color: lightgray;
+    font-size: 14px;
+    text-align: right;
 }
