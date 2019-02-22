@@ -12,6 +12,8 @@ body {
 
 header {
     background-color: #ffcccc;
+    text-align: right;
+    padding: 8px;
 }
 
 ul {
@@ -24,4 +26,13 @@ li {
     padding: 4px 8px;
     display: inline-block;
     font-size: 13px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    color: #3333ff;
 }
